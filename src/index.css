@@ -37,3 +37,11 @@ main {
 header h1 {
   text-align: center;
 }
+
+
+.character-list grid-view {
+  display: flex;
+  flex-direction: column;
+}
+
+
